@@ -1,0 +1,16 @@
+.CarousselContainer {
+  background-color: whitesmoke;
+  display: flex;
+  /*justify-content: space-between; */
+  column-gap: 10px;
+  overflow: scroll;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.CarousselContainer {
+  border-radius: 20px;
+}

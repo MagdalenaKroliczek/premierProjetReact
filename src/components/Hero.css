@@ -1,0 +1,21 @@
+.photo {
+  padding-top: 5px;
+  height: 550px;
+  width: 100%;
+  /*background-image: url(https://i0.wp.com/magdalena-kroliczek.com/wp-content/uploads/2021/04/DSC_0338.jpg?ssl=1); */
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  font-size: 70px;
+  color: whitesmoke;
+  font-family: "Fruktur", cursive;
+  font-family: "Indie Flower", cursive;
+}
+
+.heroContainer {
+  background-size: cover;
+}

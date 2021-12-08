@@ -1,0 +1,48 @@
+.headerContainer {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+ul {
+  display: flex;
+  gap: 60px;
+}
+li {
+  list-style: none;
+}
+.menuRight {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Fruktur", cursive;
+  font-family: "Indie Flower", cursive;
+  font-size: 20px;
+}
+
+.menuLeft {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 9px;
+}
+
+.imgPanier {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.imgPanier:hover {
+  background-color: gold;
+  width: 35px;
+  height: 35px;
+  border-radius: 30px;
+}
+
+p {
+  margin-left: 40px;
+  text-shadow: rgb(233, 187, 4) 2px 0 10px;
+  font-size: 20px;
+  font-family: "Fruktur", cursive;
+  font-family: "Indie Flower", cursive;
+}
